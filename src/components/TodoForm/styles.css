@@ -1,0 +1,9 @@
+/* To change focused color of the text input field */
+
+.todo-form-container {
+    justify-content: center;
+}
+
+.todo-input .Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: black !important;
+}
